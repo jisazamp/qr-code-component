@@ -46,7 +46,7 @@ figure {
 }
 
 .card {
-    border-radius: 1em;
+    border-radius: 20px;
     padding: 0rem 1rem;
     background-color: var(--clr-white);
     display: flex;
@@ -58,7 +58,7 @@ figure {
 
 .card__image {
     margin-top: 16px;
-    border-radius: 1em;
+    border-radius: 20px;
     height: 18rem;
     width: 18rem;
 }
